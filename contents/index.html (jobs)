@@ -1,0 +1,23 @@
+<html>
+  <head>
+    <meta charset ="utf-8">
+    <style>
+      h1 {color:pink;text-align:center;}
+    </style>
+  </head>
+  <body>
+    <h1>GIỚI THIỆU NGHỀ NGHIỆP</h1>
+    <ul style="list-style-type:circle">
+      <li style="color:yellow;font-weight:bold>Nghề mong muốn:</li>
+       Kỹ sư quản trị mạng
+      <li style="color:yellow;font-weight:bold>GIỚI THIỆU NGÀNH QUẢN TRỊ MẠNG:</li>
+       Đây là công việc quản lí các thiết bị mạng, vận hành mạng, thiết lập mạng theo yêu cầu công việc, cấu hình và điều chỉnh hiệu năng mạng
+Ngoài ra, bảo vệ mạng trước khi bị tấn công,truy cập mạng bất hợp pháp và khắc phục sự cố mạng
+      <li style="color:yellow;font-weight:bold>Những kiến thức cần trang bị:</li>
+        phần cứng máy tính,  các loại thiết bị mạng, hệ thống mạng, một số giao thức mạng và các dịch vụ mạng phổ biến, an toàn an ninh mạng
+      <li style="color:yellow;font-weight:bold>Những kĩ năng cần thiết:</li>
+       khắc phục sự cố thường gặp trong vận hành hệ thống mạng, có khả năng tập trung cao độ, tính tỉ mỉ trong công việc, linh hoạt xử lí các tình huống
+       <li style="color:yellow;font-weight:bold>Lý do em chọn ngành nghề này:</li>
+         vì trong những tiết học tin học trên trường lớp em cảm thấy yêu thích và làm được tốt.   
+  </body>
+</html>
