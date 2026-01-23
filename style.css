@@ -5,3 +5,8 @@ h1 {
 td {
   text-align: centre;
 }
+.tieude {
+  color: tomato;
+  font-size: 15pt
+  top-margin: 6pt
+}
