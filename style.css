@@ -29,6 +29,10 @@ td {
 .content{
   flex: 70%
 }
+.content iframe {
+  
+  
+}
 .footer{
   flex: 10%
 }
