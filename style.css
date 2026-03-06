@@ -22,6 +22,8 @@ td {
 }
 .header{
    flex: 15%;
+  background: url("images/banner.png") center/100%;
+  aspect-ratio: 6/1;
  }
 .menu{
   flex: 5%;
