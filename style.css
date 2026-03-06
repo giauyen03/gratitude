@@ -25,6 +25,14 @@ td {
   background: url("images/bannertinhoc12.png") center/100%;
   aspect-ratio: 6/1;
  }
+.menu{
+  flex: 5%;
+  background-color: darkgray;
+  color: white;
+  display: flex;
+}
+.menu a{
+  padding: 15px 20px;}  
 .menu a: hover{
   flex: 5%;
 }
