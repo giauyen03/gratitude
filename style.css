@@ -22,7 +22,7 @@ td {
 }
 .header{
    flex: 15%;
-  background: url("image/file_000000003d58722fada0c84d45dc4ca4.png") center/100%;
+  background: url (img src="../image/file_000000003d58722fada0c84d45dc4ca4.png") center/100%;
   aspect-ratio: 6/1;
  }
 .menu{
