@@ -1,1 +1,41 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thực hành tạo biểu mẫu - Bài 7</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; }
+        form { border: 1px solid #ccc; padding: 20px; max-width: 500px; }
+        h2 { color: #2c3e50; }
+        .input-group { margin-bottom: 10px; }
+        label { display: inline-block; width: 100px; }
+        textarea { margin-top: 10px; width: 100%; }
+    </style>
+</head>
+<body>
+
+    <h2>Đóng góp ý kiến cho thư viện của nhà trường</h2>
+
+    <form>
+        <h3>1. Thông tin về người góp ý</h3>
+        <div class="input-group">
+            <label for="txtTen">Họ và tên:</label>
+            <input type="text" id="txtTen" name="txtTen">
+        </div>
+        <div class="input-group">
+            <label for="txtEmail">Địa chỉ email:</label>
+            <input type="text" id="txtEmail" name="txtEmail">
+        </div>
+
+        <h3>2. Đóng góp ý kiến</h3>
+        <label>Ý kiến đóng góp:</label><br>
+        <textarea name="txtComment" rows="6" cols="40" placeholder="Nhập ý kiến của bạn tại đây..."></textarea>
+        
+        <br><br>
+        <button type="submit">Gửi ý kiến</button>
+    </form>
+
+</body>
+</html>
 
