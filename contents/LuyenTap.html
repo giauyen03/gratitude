@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Đăng ký Hội thao</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; line-height: 1.8; }
+        form { border: 1px solid #000; padding: 15px; width: 450px; }
+        h3 { margin-top: 0; }
+        .input-field { width: 250px; }
+    </style>
+</head>
+<body>
+
+    <form>
+        <h3>Đăng ký tham gia Hội thao</h3>
+
+        <label>Họ và tên: </label>
+        <input type="text" name="txtHoTen" class="input-field"><br>
+
+        <label>Địa chỉ email: </label>
+        <input type="text" name="txtEmail" class="input-field"><br>
+
+        <input type="radio" name="rdLop" value="10"> Lớp 10
+        <input type="radio" name="rdLop" value="11"> Lớp 11
+        <input type="radio" name="rdLop" value="12"> Lớp 12
+        <br>
+
+        <label>Tham dự môn:</label><br>
+        <input type="checkbox" name="chkBB"> Bóng bàn <br>
+        <input type="checkbox" name="chkCL"> Cầu lông <br>
+        <input type="checkbox" name="chkCV"> Cờ vua <br>
+
+        <input type="submit" value="Đăng ký">
+        <input type="reset" value="Huỷ bỏ">
+    </form>
+
+</body>
+</html>
