@@ -1,0 +1,16 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <p id="kq"> </p>
+    <script>
+      let pp = new URLSearchParams(window.location.search);
+      let ten = pp.get("txtTen");
+      document.getElementById("kq").innerHTML = "Cảm ơn bạn " + ten + " đã đăng ký tham gia hội thao. Chúng tôi xin ghi nhận. <br>";
+    </script>
+    <form action = "Dangkyhoithao1.html">
+    <input type = "submit" name = "cmd" value= "Quay lại">
+    </form>
+  </body>
+</html>
